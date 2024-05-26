@@ -1,4 +1,4 @@
-<h1>ink in Bio</h1>
+<h1>Link in Bio</h1>
 
 <h2>About This Project 🚀</h2>
 <p>This project aims to create a custom Link in Bio page for Instagram and Twitter.</p>
